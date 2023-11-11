@@ -3,7 +3,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <algorithm>
-#include "functions.h";
+#include "../../Headers/functions.h"
 
 
 /*

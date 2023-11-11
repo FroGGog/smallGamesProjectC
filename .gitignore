@@ -1,4 +1,4 @@
-#pass all Debug staff
+#pass all Debug staff 
 **/x64
 #pass all VS staff
 .vs/

@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Source\main.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="WordJumЬle.cpp">
+    <ClCompile Include="Source\GuessMyNum\GuessMyNumber.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="GuessMyNumber.cpp">
+    <ClCompile Include="Source\gameBasedFunctions.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="gameBasedFunctions.cpp">
+    <ClCompile Include="Source\Hangamn\Hangman.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="Hangman.cpp">
+    <ClCompile Include="Source\Tictactoe\Tictactoe.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="Tictactoe.cpp">
-      <Filter>Файлы ресурсов</Filter>
+    <ClCompile Include="Source\WordJumble\WordJumble.cpp">
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="functions.h">
+    <ClInclude Include="Headers\functions.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

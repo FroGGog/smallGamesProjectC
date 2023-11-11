@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <vector>
 #include <string>
-#include "functions.h"
+#include "../../Headers/functions.h"
 
 /*
 Created by Danya Bucenin
@@ -348,7 +348,7 @@ bool TicTacToe() {
 
 	}
 
-	inGame = RestartGame(Hangman);
+	inGame = RestartGame(TicTacToe);
 	return inGame;
 
 }

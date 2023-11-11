@@ -128,15 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gameBasedFunctions.cpp" />
-    <ClCompile Include="GuessMyNumber.cpp" />
-    <ClCompile Include="Hangman.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Tictactoe.cpp" />
-    <ClCompile Include="WordJumЬle.cpp" />
+    <ClCompile Include="Source\gameBasedFunctions.cpp" />
+    <ClCompile Include="Source\GuessMyNum\GuessMyNumber.cpp" />
+    <ClCompile Include="Source\Hangamn\Hangman.cpp" />
+    <ClCompile Include="Source\main.cpp" />
+    <ClCompile Include="Source\Tictactoe\Tictactoe.cpp" />
+    <ClCompile Include="Source\WordJumble\WordJumble.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="functions.h" />
+    <ClInclude Include="Headers\functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

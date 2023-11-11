@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
-#include "functions.h"
+#include "../../Headers/functions.h"
 
 /*
 Created by Danya Bucenin
